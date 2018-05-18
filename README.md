@@ -1,3 +1,11 @@
+# Datasets
+
+The datasets for this system can be found at: https://sites.google.com/view/cwisharedtask2018/datasets
+
+
+
+
+
 # Complex Word Identification (CWI) Shared Task 2018 - Teaching
 
 This git repository contains a few utilities to support students on the COM4513 and COM6513 modules at the University of Sheffield attempt the Complex Word Identification Shared Task 2018.
